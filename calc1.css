@@ -1,0 +1,30 @@
+.contener{
+    width: 300px;
+    height: 400px;
+    margin: 20px auto;
+    background-color: black;
+    border: 1px solid rgb(92, 62, 62); 
+    border-radius: 5px;
+    
+    box-sizing: border-box;
+   /*  display: flex;
+       justify-content:space-between;
+       align-content:space-evenly ; */
+}
+.bos{
+    width: 70px;
+    height: 77px;
+    box-sizing: border-box;
+    border-radius: 50%;
+
+}
+#natija{
+    width: 200px;
+    height: 80px;
+    font-size: 200%;
+}
+.bos:hover{
+    background-color: aqua;
+    color: blue;
+}
+
